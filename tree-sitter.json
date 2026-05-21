@@ -6,9 +6,7 @@
       "camelcase": "Wasp",
       "title": "Wasp",
       "scope": "source.wasp",
-      "file-types": [
-        "wasp"
-      ],
+      "file-types": ["wasp"],
       "injection-regex": "^wasp$",
       "class-name": "TreeSitterWasp"
     }
@@ -19,13 +17,11 @@
     "description": "Wasp grammar for tree-sitter",
     "authors": [
       {
-        "name": "Stephen Buchanan",
-        "url": ""
+        "name": "Stephen Buchanan"
       }
     ],
     "links": {
-      "repository": "https://github.com/tree-sitter/tree-sitter-wasp",
-      "funding": ""
+      "repository": "https://github.com/anselanza/tree-sitter-wasp"
     }
   },
   "bindings": {
